@@ -1,10 +1,10 @@
 # am-drugs-consumption
 
-Será realizado uma analise sobre a base de dados *Drugs Comsunption*, em conjunto da tarefa de aprendizagem de máquina com o objetivo de classificar o sexo do individuo baseado em um conjunto de variáveis independentes.
+Será realizado uma analise sobre a base de dados *Drugs Consumption*, em conjunto da tarefa de aprendizagem de máquina com o objetivo de classificar o sexo do individuo baseado em um conjunto de variáveis independentes.
 
 * **Notebook:**
 
-- [**Drug Comsunption**](https://colab.research.google.com/github/Manuelfjr/am-drugs-consumption/blob/main/relatorio01_ml.ipynb)
+- [**Drug Consumption**](https://colab.research.google.com/github/Manuelfjr/am-drugs-consumption/blob/main/relatorio01_ml.ipynb)
 
 * **Slide:**
 
