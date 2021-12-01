@@ -13,6 +13,6 @@ Será realizado uma analise sobre a base de dados *Drugs Consumption*, em conjun
 
 * **Slide:**
 
-    - [**Uma aplicação de Aprendizagem de Máquina sobre a base: Drug Consumption**](https://www.overleaf.com/8953121427cmdfrgpkzzfk)
+    - [**Uma aplicação de Aprendizagem de Máquina sobre a base: Drug Consumption**](https://github.com/Manuelfjr/am-drugs-consumption/raw/main/slide/Aprendizado_de_M_quina___Drug_Consumption.pdf)
 
 **Fonte:** [Drug consumption (quantified) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29)
